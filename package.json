@@ -1,0 +1,16 @@
+{
+  "name": "node-dogma",
+  "version": "1.0.0",
+  "description": "Node.js wrapper for libdogma fitting engine",
+  "main": "src/node-dogma.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "trichner",
+  "license": "MIT",
+  "dependencies": {
+    "ffi": "^1.3.1",
+    "ref": "^1.0.2",
+    "ref-struct": "^1.0.1"
+  }
+}
